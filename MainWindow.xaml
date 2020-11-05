@@ -10,6 +10,7 @@
         <StackPanel>
             <TextBlock>test</TextBlock>
             <TextBlock>test2</TextBlock>
+            <TextBlock>test3</TextBlock>
         </StackPanel>
     </Grid>
 </Window>
