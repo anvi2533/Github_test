@@ -11,6 +11,7 @@
             <TextBlock>test</TextBlock>
             <TextBlock>test2</TextBlock>
             <TextBlock>test3</TextBlock>
+            <TextBlock>test4</TextBlock>
         </StackPanel>
     </Grid>
 </Window>
